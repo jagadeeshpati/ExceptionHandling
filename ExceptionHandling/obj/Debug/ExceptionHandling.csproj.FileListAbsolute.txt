@@ -1,5 +1,0 @@
-F:\STUFF I NEED, TO SURVIVE\SPRING 2016\C#\Exception Handling\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
-F:\STUFF I NEED, TO SURVIVE\SPRING 2016\C#\Exception Handling\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
-F:\STUFF I NEED, TO SURVIVE\SPRING 2016\C#\Exception Handling\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
-F:\STUFF I NEED, TO SURVIVE\SPRING 2016\C#\Exception Handling\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
-F:\STUFF I NEED, TO SURVIVE\SPRING 2016\C#\Exception Handling\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb
